@@ -3,10 +3,10 @@
 
 while :
 do
-	echo 'clean core.* one time'
+	echo 'clean *.png one time'
  
 	sleep 1d
-	rm -rf core.*
+	rm -rf *.png
 
 done
 
